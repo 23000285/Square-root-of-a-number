@@ -16,7 +16,6 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
 #program to find the square root of the given number
 #Developed By: VENKATANATHAN P R
 #Register Number: 23000285
@@ -31,11 +30,10 @@ def sq(n):
 
 n=int(input())
 sq(n)
-*/
 ```
 
 ## Output:
-![image](https://github.com/23000285/Square-root-of-a-number/assets/138970859/f8b48f18-1bb4-4070-aee3-56e5205ef81f)
+![image](https://github.com/23000285/Square-root-of-a-number/assets/138970859/53792b95-e503-4c27-b893-3f7877dd85a6)
 
 
 ## Result:
